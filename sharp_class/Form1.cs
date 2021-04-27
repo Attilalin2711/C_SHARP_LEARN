@@ -14,6 +14,7 @@ namespace sharp_class
     {
         Student David = new Student();
         Student John = new Student();
+        
         public Form1()
         {
             InitializeComponent();
@@ -75,6 +76,48 @@ namespace sharp_class
             Student maybin = new Student();
             MessageBox.Show(maybin.Say());
             
+        }
+
+        private void button6_Click(object sender, EventArgs e)
+        {
+            math m = new math();
+            int a = 10;
+            int b = 20;
+            int c = m.max(a, b);
+
+            ////若使用靜態方法,則可以不用為了方法而多產生一個物件(避免浪費)
+            ////static的特稱為不須建立物件即可使用class的功能,只需要使用物件名稱存取即可
+            int d = math.static_max(a, b);
+            MessageBox.Show("c=" + c +" d=" + d);
+            
+        }
+
+        private void button7_Click(object sender, EventArgs e)
+        {
+            Student david = new Student();
+            david.Score = 40;
+            Student josh = new Student();
+            josh.Score = 50;
+
+            Student.PASS_Score = 40;///將及格分數改為40,因static variable為所有物件共用,所以兩人應該都及格
+
+            if(david.isPass())
+                MessageBox.Show("david及格");
+            if(josh.isPass())
+                MessageBox.Show("josh及格");
+
+        }
+
+        private void button8_Click(object sender, EventArgs e)
+        {
+            /*
+             C#中, Math為一個常見的靜態類別,靜態類別有以下特性
+             1.無法使用static class建立物件(無法new建立,建立也沒用)
+             */
+            int a = 10;
+            int b = 20;
+            Math.Cos(a);
+            ///Math m = new Math(); 無法創建
         }
     }
 }

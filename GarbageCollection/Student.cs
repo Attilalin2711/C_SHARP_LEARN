@@ -3,8 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using System.Windows.Forms;///想要使用MessageBox需要使用
-namespace sharp_class
+
+namespace GarbageCollection
 {
     class Student
     {
@@ -20,7 +20,7 @@ namespace sharp_class
         /// 2.所有的class物件共用同一個static變數
         /// </summary>
         public int Score;
-        public static int PASS_Score=60;
+        public static int PASS_Score = 60;
         /// method
         public string Say()
         {
@@ -40,6 +40,6 @@ namespace sharp_class
                 return true;
             else
                 return false;
-        } 
+        }
     }
 }
