@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace @interface.Properties
+namespace Generics.Properties
 {
 
 

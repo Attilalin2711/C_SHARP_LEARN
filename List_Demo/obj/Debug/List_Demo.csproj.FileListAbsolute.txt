@@ -1,0 +1,9 @@
+C:\Users\david2711\Documents\GitHub\C_SHARP_LEARN\List_Demo\bin\Debug\List_Demo.exe.config
+C:\Users\david2711\Documents\GitHub\C_SHARP_LEARN\List_Demo\bin\Debug\List_Demo.exe
+C:\Users\david2711\Documents\GitHub\C_SHARP_LEARN\List_Demo\bin\Debug\List_Demo.pdb
+C:\Users\david2711\Documents\GitHub\C_SHARP_LEARN\List_Demo\obj\Debug\List_Demo.csprojResolveAssemblyReference.cache
+C:\Users\david2711\Documents\GitHub\C_SHARP_LEARN\List_Demo\obj\Debug\List_Demo.Form1.resources
+C:\Users\david2711\Documents\GitHub\C_SHARP_LEARN\List_Demo\obj\Debug\List_Demo.Properties.Resources.resources
+C:\Users\david2711\Documents\GitHub\C_SHARP_LEARN\List_Demo\obj\Debug\List_Demo.csproj.GenerateResource.Cache
+C:\Users\david2711\Documents\GitHub\C_SHARP_LEARN\List_Demo\obj\Debug\List_Demo.exe
+C:\Users\david2711\Documents\GitHub\C_SHARP_LEARN\List_Demo\obj\Debug\List_Demo.pdb

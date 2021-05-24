@@ -4,9 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace interface
+namespace Interface_demo
 {
-    class Creature
+    interface ITalkable
     {
+        string talkTo(Creature target);
     }
 }

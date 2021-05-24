@@ -1,0 +1,9 @@
+C:\Users\david2711\Documents\GitHub\C_SHARP_LEARN\Interface_demo\obj\Debug\Interface_demo.csprojResolveAssemblyReference.cache
+C:\Users\david2711\Documents\GitHub\C_SHARP_LEARN\Interface_demo\obj\Debug\Interface_demo.Form1.resources
+C:\Users\david2711\Documents\GitHub\C_SHARP_LEARN\Interface_demo\obj\Debug\Interface_demo.Properties.Resources.resources
+C:\Users\david2711\Documents\GitHub\C_SHARP_LEARN\Interface_demo\obj\Debug\Interface_demo.csproj.GenerateResource.Cache
+C:\Users\david2711\Documents\GitHub\C_SHARP_LEARN\Interface_demo\bin\Debug\Interface_demo.exe.config
+C:\Users\david2711\Documents\GitHub\C_SHARP_LEARN\Interface_demo\bin\Debug\Interface_demo.exe
+C:\Users\david2711\Documents\GitHub\C_SHARP_LEARN\Interface_demo\bin\Debug\Interface_demo.pdb
+C:\Users\david2711\Documents\GitHub\C_SHARP_LEARN\Interface_demo\obj\Debug\Interface_demo.exe
+C:\Users\david2711\Documents\GitHub\C_SHARP_LEARN\Interface_demo\obj\Debug\Interface_demo.pdb
