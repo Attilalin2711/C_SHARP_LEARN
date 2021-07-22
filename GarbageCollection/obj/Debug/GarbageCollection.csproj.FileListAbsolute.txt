@@ -1,0 +1,9 @@
+C:\Users\david2711\Documents\GitHub\C_SHARP_LEARN\GarbageCollection\bin\Debug\GarbageCollection.exe.config
+C:\Users\david2711\Documents\GitHub\C_SHARP_LEARN\GarbageCollection\bin\Debug\GarbageCollection.exe
+C:\Users\david2711\Documents\GitHub\C_SHARP_LEARN\GarbageCollection\bin\Debug\GarbageCollection.pdb
+C:\Users\david2711\Documents\GitHub\C_SHARP_LEARN\GarbageCollection\obj\Debug\GarbageCollection.csprojResolveAssemblyReference.cache
+C:\Users\david2711\Documents\GitHub\C_SHARP_LEARN\GarbageCollection\obj\Debug\GarbageCollection.Form1.resources
+C:\Users\david2711\Documents\GitHub\C_SHARP_LEARN\GarbageCollection\obj\Debug\GarbageCollection.Properties.Resources.resources
+C:\Users\david2711\Documents\GitHub\C_SHARP_LEARN\GarbageCollection\obj\Debug\GarbageCollection.csproj.GenerateResource.Cache
+C:\Users\david2711\Documents\GitHub\C_SHARP_LEARN\GarbageCollection\obj\Debug\GarbageCollection.exe
+C:\Users\david2711\Documents\GitHub\C_SHARP_LEARN\GarbageCollection\obj\Debug\GarbageCollection.pdb

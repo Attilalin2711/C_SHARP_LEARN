@@ -1,0 +1,10 @@
+C:\Users\david2711\Documents\GitHub\C_SHARP_LEARN\Delegate_demo\bin\Debug\Delegate_demo.exe.config
+C:\Users\david2711\Documents\GitHub\C_SHARP_LEARN\Delegate_demo\bin\Debug\Delegate_demo.exe
+C:\Users\david2711\Documents\GitHub\C_SHARP_LEARN\Delegate_demo\bin\Debug\Delegate_demo.pdb
+C:\Users\david2711\Documents\GitHub\C_SHARP_LEARN\Delegate_demo\obj\Debug\Delegate_demo.csprojResolveAssemblyReference.cache
+C:\Users\david2711\Documents\GitHub\C_SHARP_LEARN\Delegate_demo\obj\Debug\Delegate_demo.Form1.resources
+C:\Users\david2711\Documents\GitHub\C_SHARP_LEARN\Delegate_demo\obj\Debug\Delegate_demo.Form2.resources
+C:\Users\david2711\Documents\GitHub\C_SHARP_LEARN\Delegate_demo\obj\Debug\Delegate_demo.Properties.Resources.resources
+C:\Users\david2711\Documents\GitHub\C_SHARP_LEARN\Delegate_demo\obj\Debug\Delegate_demo.csproj.GenerateResource.Cache
+C:\Users\david2711\Documents\GitHub\C_SHARP_LEARN\Delegate_demo\obj\Debug\Delegate_demo.exe
+C:\Users\david2711\Documents\GitHub\C_SHARP_LEARN\Delegate_demo\obj\Debug\Delegate_demo.pdb

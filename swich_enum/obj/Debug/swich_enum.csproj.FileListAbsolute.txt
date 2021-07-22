@@ -1,0 +1,9 @@
+C:\Users\david2711\Documents\GitHub\C_SHARP_LEARN\swich_enum\bin\Debug\swich_enum.exe.config
+C:\Users\david2711\Documents\GitHub\C_SHARP_LEARN\swich_enum\bin\Debug\swich_enum.exe
+C:\Users\david2711\Documents\GitHub\C_SHARP_LEARN\swich_enum\bin\Debug\swich_enum.pdb
+C:\Users\david2711\Documents\GitHub\C_SHARP_LEARN\swich_enum\obj\Debug\swich_enum.csprojResolveAssemblyReference.cache
+C:\Users\david2711\Documents\GitHub\C_SHARP_LEARN\swich_enum\obj\Debug\swich_enum.Form1.resources
+C:\Users\david2711\Documents\GitHub\C_SHARP_LEARN\swich_enum\obj\Debug\swich_enum.Properties.Resources.resources
+C:\Users\david2711\Documents\GitHub\C_SHARP_LEARN\swich_enum\obj\Debug\swich_enum.csproj.GenerateResource.Cache
+C:\Users\david2711\Documents\GitHub\C_SHARP_LEARN\swich_enum\obj\Debug\swich_enum.exe
+C:\Users\david2711\Documents\GitHub\C_SHARP_LEARN\swich_enum\obj\Debug\swich_enum.pdb

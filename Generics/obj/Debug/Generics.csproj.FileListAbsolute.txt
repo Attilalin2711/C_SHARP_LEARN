@@ -1,0 +1,8 @@
+C:\Users\david2711\Documents\GitHub\C_SHARP_LEARN\Generics\bin\Debug\Generics.exe.config
+C:\Users\david2711\Documents\GitHub\C_SHARP_LEARN\Generics\bin\Debug\Generics.exe
+C:\Users\david2711\Documents\GitHub\C_SHARP_LEARN\Generics\bin\Debug\Generics.pdb
+C:\Users\david2711\Documents\GitHub\C_SHARP_LEARN\Generics\obj\Debug\Generics.Form1.resources
+C:\Users\david2711\Documents\GitHub\C_SHARP_LEARN\Generics\obj\Debug\Generics.Properties.Resources.resources
+C:\Users\david2711\Documents\GitHub\C_SHARP_LEARN\Generics\obj\Debug\Generics.csproj.GenerateResource.Cache
+C:\Users\david2711\Documents\GitHub\C_SHARP_LEARN\Generics\obj\Debug\Generics.exe
+C:\Users\david2711\Documents\GitHub\C_SHARP_LEARN\Generics\obj\Debug\Generics.pdb
