@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "swich_enum", "swich_enum\sw
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delegate_demo", "Delegate_demo\Delegate_demo.csproj", "{5F2D85C6-2515-48D5-8D92-790E320A4DE8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delegate_demo2", "Delegate_demo2\Delegate_demo2.csproj", "{33DE5E34-8548-4CA1-B6DF-9672BD36293C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{5F2D85C6-2515-48D5-8D92-790E320A4DE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5F2D85C6-2515-48D5-8D92-790E320A4DE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5F2D85C6-2515-48D5-8D92-790E320A4DE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33DE5E34-8548-4CA1-B6DF-9672BD36293C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33DE5E34-8548-4CA1-B6DF-9672BD36293C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33DE5E34-8548-4CA1-B6DF-9672BD36293C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33DE5E34-8548-4CA1-B6DF-9672BD36293C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
