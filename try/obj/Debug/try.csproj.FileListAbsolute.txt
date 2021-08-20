@@ -1,0 +1,8 @@
+C:\Users\david2711\Documents\GitHub\C_SHARP_LEARN\try\bin\Debug\@try.exe.config
+C:\Users\david2711\Documents\GitHub\C_SHARP_LEARN\try\bin\Debug\@try.exe
+C:\Users\david2711\Documents\GitHub\C_SHARP_LEARN\try\bin\Debug\@try.pdb
+C:\Users\david2711\Documents\GitHub\C_SHARP_LEARN\try\obj\Debug\try.Form1.resources
+C:\Users\david2711\Documents\GitHub\C_SHARP_LEARN\try\obj\Debug\try.Properties.Resources.resources
+C:\Users\david2711\Documents\GitHub\C_SHARP_LEARN\try\obj\Debug\try.csproj.GenerateResource.Cache
+C:\Users\david2711\Documents\GitHub\C_SHARP_LEARN\try\obj\Debug\@try.exe
+C:\Users\david2711\Documents\GitHub\C_SHARP_LEARN\try\obj\Debug\@try.pdb
