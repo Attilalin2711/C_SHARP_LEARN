@@ -37,3 +37,9 @@ C:\Users\david2711\Documents\GitHub\C_SHARP_LEARN\sharp_class\obj\Debug\sharp_cl
 C:\Users\user\Documents\GitHub\C_SHARP_LEARN\sharp_class\bin\Debug\sharp_class.exe.config
 C:\Users\user\Documents\GitHub\C_SHARP_LEARN\sharp_class\obj\Debug\sharp_class.exe
 C:\Users\user\Documents\GitHub\C_SHARP_LEARN\sharp_class\obj\Debug\sharp_class.pdb
+C:\Users\user\Documents\GitHub\C_SHARP_LEARN\sharp_class\bin\Debug\sharp_class.exe
+C:\Users\user\Documents\GitHub\C_SHARP_LEARN\sharp_class\bin\Debug\sharp_class.pdb
+C:\Users\user\Documents\GitHub\C_SHARP_LEARN\sharp_class\obj\Debug\sharp_class.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\GitHub\C_SHARP_LEARN\sharp_class\obj\Debug\sharp_class.Form1.resources
+C:\Users\user\Documents\GitHub\C_SHARP_LEARN\sharp_class\obj\Debug\sharp_class.Properties.Resources.resources
+C:\Users\user\Documents\GitHub\C_SHARP_LEARN\sharp_class\obj\Debug\sharp_class.csproj.GenerateResource.Cache

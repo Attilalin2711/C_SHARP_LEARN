@@ -1,0 +1,6 @@
+C:\Users\user\Documents\GitHub\C_SHARP_LEARN\Delegate_demo3\bin\Debug\Delegate_demo3.exe.config
+C:\Users\user\Documents\GitHub\C_SHARP_LEARN\Delegate_demo3\bin\Debug\Delegate_demo3.exe
+C:\Users\user\Documents\GitHub\C_SHARP_LEARN\Delegate_demo3\bin\Debug\Delegate_demo3.pdb
+C:\Users\user\Documents\GitHub\C_SHARP_LEARN\Delegate_demo3\obj\Debug\Delegate_demo3.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\GitHub\C_SHARP_LEARN\Delegate_demo3\obj\Debug\Delegate_demo3.exe
+C:\Users\user\Documents\GitHub\C_SHARP_LEARN\Delegate_demo3\obj\Debug\Delegate_demo3.pdb
