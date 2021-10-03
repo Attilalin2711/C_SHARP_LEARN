@@ -1,0 +1,6 @@
+C:\Users\user\Documents\GitHub\C_SHARP_LEARN\Event_demo\bin\Debug\Event_demo.exe.config
+C:\Users\user\Documents\GitHub\C_SHARP_LEARN\Event_demo\bin\Debug\Event_demo.exe
+C:\Users\user\Documents\GitHub\C_SHARP_LEARN\Event_demo\bin\Debug\Event_demo.pdb
+C:\Users\user\Documents\GitHub\C_SHARP_LEARN\Event_demo\obj\Debug\Event_demo.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\GitHub\C_SHARP_LEARN\Event_demo\obj\Debug\Event_demo.exe
+C:\Users\user\Documents\GitHub\C_SHARP_LEARN\Event_demo\obj\Debug\Event_demo.pdb
